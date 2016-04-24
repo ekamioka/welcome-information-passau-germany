@@ -6,4 +6,4 @@ DISCLAIMER: The information contained is based on experiences lived during my st
 - Visa and residence permit
 - Flats, apartments and homes
 - Health Insurance
-- 
+- Food sources
