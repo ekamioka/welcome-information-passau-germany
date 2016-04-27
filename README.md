@@ -3,9 +3,9 @@ This repository is an open source of consolidated information about Passau, Germ
 
 DISCLAIMER: The information contained is based on experiences lived during my starying in Passau and will not replace or substitute the information found in the official agencies, university website, Rathaus (city hall) and so on. We also cannot be responsible for any problem you have based on the information we provide. The world changes every second and perhaps bad luck happens. By the way, we wish to help you and good luck :) 
 
-
+###Table of Contents
 - [Visa and Residence Permit](#visa-and-residence-permit)
-- [Flats, Apartments and Homes](#flats-apartments-and-homes)
+- [Flats, Apartments and Houses](#flats-apartments-and-homes)
 - [Health Insurence](#health-insurence)
 - [Food Sources](#health-insurence)
 
