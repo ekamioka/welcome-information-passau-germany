@@ -44,7 +44,7 @@ If you know that you won't be home but don't want to reschedule (some important 
 
 > \<Your Name>, \<Your Address: Street, House number, ZIP code, City>.
 
-> \<Herr/Frau> <Name of the person receiving> ist auch befugt, eigenhändig auszuliefernde Sendungen und Schreiben entgegen zu nehmen.
+> \<Herr/Frau> \<Name of the person receiving> ist auch befugt, eigenhändig auszuliefernde Sendungen und Schreiben entgegen zu nehmen.
 
 > Passau, \<Signing date>
 
