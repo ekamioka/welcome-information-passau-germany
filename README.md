@@ -33,7 +33,8 @@ First thing you have to know about receiving mail in Germany is that the mailman
 When you are expecting a delivery or a letter that requires your signature (read more about it [here](http://www.howtogermany.com/pages/postal.html)), use the tracking code given to you and be sure that you will be home at the predicted delivery time. If you are not home, two things can happen:
 
 1. The mailman will try to deliver the mail to one of your neighbors. If the neighbor agrees to receive the package, than you will find a small note in your mailbox telling you who received the package and that you should pick it up with him.
-2. You will receive a small note in your mailbox telling you that the mailman tried to deliver a package and that you weren't home. The note will explain that you should reschedule the delivery in a website or by phone (don't worry. You can always do this using the website)
+2. You will receive a small note in your mailbox telling you that the mailman tried to deliver a package and that you weren't home. The note will explain that you should reschedule the delivery in a website or by phone (don't worry. You can always do this using the website).
+3. You will receive a small note in your mailbox telling you that the package has been returned to the mailing company office and that you should go there to pick it up.
 
 If you know that you won't be home but don't want to reschedule (some important mail, maybe), you can give a written authorization to someone. That way the person can receive the mail for you. Here is a template for a written authorization:
 
@@ -54,6 +55,8 @@ If you know that you won't be home but don't want to reschedule (some important 
 Where you read \<Herr/Frau> you should just write Herr if the person receiving is a guy and Frau if it's a girl. Where you read \<Start Date> and \<End Date> you should write when the authorization begins and when it ends.
 
 The person receiving should have some kind of I.D. (e.g. a passport) and it wouldn't hurt to have a black and white copy of your I.D. just to show that the signature is real.
+
+Sometimes you are given the option to deliver a package to a package station, like the Hermes PaketShop ([](https://www.google.com/maps/place/Hermes+PaketShop)). This doesn't cost you any extra and you can pick up the package at any time. Just show your passport to the employee of the package station and he will give the package to you. You normally have a week or so to do that.
 
 ##Important Words to Know
 
