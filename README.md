@@ -30,7 +30,7 @@ DISCLAIMER: The information contained is based on experiences lived during my st
 ##Receiving Packages and Special Mail
 First thing you have to know about receiving mail in Germany is that the mailman can only tell where you live if your name is on the mailbox. You should check if that's the case and, if it's not, contact your landlord and ask him about it.
 
-When you are expecting a delivery or a letter that requires your signature (read more about it [here](http://www.howtogermany.com/pages/postal.html)), use the tracking code given to you and be sure that you will be home at the predicted delivery time. If you are not home, two things can happen:
+When you are expecting a delivery or a letter that requires your signature (read more about it [here](http://www.howtogermany.com/pages/postal.html)), use the tracking code given to you and be sure that you will be home at the predicted delivery time. If you are not home, three things can happen:
 
 1. The mailman will try to deliver the mail to one of your neighbors. If the neighbor agrees to receive the package, than you will find a small note in your mailbox telling you who received the package and that you should pick it up with him.
 2. You will receive a small note in your mailbox telling you that the mailman tried to deliver a package and that you weren't home. The note will explain that you should reschedule the delivery in a website or by phone (don't worry. You can always do this using the website).
