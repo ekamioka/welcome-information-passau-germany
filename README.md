@@ -56,7 +56,7 @@ Where you read \<Herr/Frau> you should just write Herr if the person receiving i
 
 The person receiving should have some kind of I.D. (e.g. a passport) and it wouldn't hurt to have a black and white copy of your I.D. just to show that the signature is real.
 
-Sometimes you are given the option to deliver a package to a package station, like the Hermes PaketShop ([](https://www.google.com/maps/place/Hermes+PaketShop)). This doesn't cost you any extra and you can pick up the package at any time. Just show your passport to the employee of the package station and he will give the package to you. You normally have a week or so to do that.
+Sometimes you are given the option to deliver a package to a package station, like the Hermes PaketShop (https://www.google.com/maps/place/Hermes+PaketShop). This doesn't cost you any extra and you can pick up the package at any time. Just show your passport to the employee of the package station and he will give the package to you. You normally have a week or so to do that.
 
 ##Important Words to Know
 
