@@ -7,6 +7,6 @@ DISCLAIMER: The information contained is based on experiences lived during my st
 - Flats, apartments and homes
 - Health Insurance
 - Food sources
-- 
 
+- Information provided by the University of Passau
 http://www.uni-passau.de/en/international/coming-to-passau/
